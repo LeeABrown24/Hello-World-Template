@@ -8,7 +8,7 @@ This is my first project in the code institute learning videos to be posted into
 ## Technology Used:
 
 <li>html</li>
-<li>css3</li>
+<li>css</li>
 
 ## Rationale for this exercise:
 
