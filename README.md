@@ -7,7 +7,7 @@ This is my first project in the code institute learning videos to be posted into
 
 ## Technology Used:
 
-<li>html5</li>
+<li>html</li>
 <li>css3</li>
 
 ## Rationale for this exercise:
