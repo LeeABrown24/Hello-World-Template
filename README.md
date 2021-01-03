@@ -12,4 +12,4 @@ This is my first project in the code institute learning videos to be posted into
 
 ## Rationale for this exercise:
 
-I belive that the purpose of designing this webpage was not only to reinforce certain css and html skills learnt in the previous modules but also to fully understand how to amend, create and publish a project.
+The purpose of designing this webpage was not only to reinforce certain css and html skills learnt so far but also to fully understand how to amend, create and publish a project using the gitpod and github software.
