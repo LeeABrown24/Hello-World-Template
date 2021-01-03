@@ -31,15 +31,12 @@ nav a:hover {
     color: #4a4a4f; 
 }
 
-.active {
-    border-bottom: 1px solid #fff;
-}
-
 .card {
-    float:left;
-   width: 50%;
+   float: left;
+   width: 20%;
    margin-top: 10%;
    margin-left: 10%;
+
 }
 
 .card a {
